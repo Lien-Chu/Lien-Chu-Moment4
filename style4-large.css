@@ -2,12 +2,11 @@
 
     body {
         background-image: url(/img-mement4/BC.jpg);
-
     }
 
     .rubrik {
-        color: rgb(255, 255, 255);
-        font-size: 40px;
+        color: rgb(0, 132, 255);
+        font-size: 35px;
         padding: 10px;
         margin: 50px 8px;
         border-top: rgb(241, 238, 164) 3px solid;
@@ -16,7 +15,7 @@
 
     .bild,
     .text {
-        box-shadow: 22px 22px rgba(0, 0, 0, 0.8);
+        box-shadow: 22px 22px rgba(0, 0, 0, 0.5);
         margin-top: 40px;
         opacity: 0.8;
     }
@@ -55,7 +54,7 @@
 
     .text{
         color: white;
-        background-color: rgba(70, 100, 73, 0.9);
+        background-color: rgba(59, 66, 70, 0.9);
     }
 
     .texter-top {
@@ -65,18 +64,18 @@
     }
 
     .texter-rubrik {
-        background-color:  rgba(221, 146, 102, 0.478);
-        box-shadow: inset 1px 1px 7px 8px rgba(192, 91, 91, 0.601);
+        background-color:  rgba(94, 107, 128, 0.478);
+        box-shadow: inset 1px 1px 7px 8px rgba(91, 101, 192, 0.601);
         height: 50px;
         border-radius: 50%;
         padding-top: 5px;
         margin: 10px 5px;
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .top-rubrik::first-letter {
         color: yellow;
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .top-rubrik {
@@ -104,7 +103,7 @@
 
     .text-p {
         font-family: 'Ubuntu', sans-serif;
-        font-size: 24px;
+        font-size: 20px;
         padding: 0 6px 10px 6px;
     }
 
